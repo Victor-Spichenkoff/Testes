@@ -47,3 +47,5 @@ Sócrates uma vez disse:
 
 Emoji:
 Olá Gafanhoto 🖖 :vulcan_salute:
+
+Isso foi tudo
