@@ -41,5 +41,9 @@ const ola = 'Olá, Mundo!'
 console.log(ola)
 ```
 
+Sócrates uma vez disse:
+> Só sei que nada sei
+
+
 Emoji:
-Olá Gafanhoto 🖖
+Olá Gafanhoto 🖖 :vulcan_salute:
